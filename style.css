@@ -16,12 +16,12 @@ color: #F1FFE7;
 #container {
 width: 90%;
 max-width: 800px;
-background: #1C2541;
+background: #3b4974;
 margin: 30px auto;
 padding: 30px;
 }
 
 section {
-border-top: 1px solid #5BC0BE;
+border-top: 1px solid #f0ed0d;
 padding: 20px 0 0;
 }
