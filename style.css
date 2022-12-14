@@ -1,4 +1,4 @@
-html,body {
+html, body {
   background: #A0D2DB
   front-family: helvetica, arial, sans-serif;
   font-size: 18px;
@@ -14,10 +14,10 @@ p {
 
 
 #container {
-  width: 90%;
-  max-width: 800px;
-  background: #3b4974;
-  margin: 30px auto;
+    width: 90%;
+    max-width: 800px;
+    background: #3b4974;
+    margin: 30px auto;
   padding: 30px;
 }
 
