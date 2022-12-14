@@ -1,6 +1,6 @@
-html,body {
-  background: #A0D2DB
-  font-family: helvetica, arial, sans-serif;
+html,
+body {
+  background: #A0D2DB font-family: helvetica, arial, sans-serif;
   font-size: 18px;
   color: #F1FFE7;
 }
@@ -9,23 +9,23 @@ html,body {
   width: 20px;
   height: 20px;
 
-p {
-  font-size: 1em;
-line-height: 1.4em;
-margin-bottom: 20px;
-color: #565555;
-}
+  p {
+    font-size: 1em;
+    line-height: 1.4em;
+    margin-bottom: 20px;
+    color: #565555;
+  }
 
 
-#container {
-width: 90%;
-max-width: 800px;
-background: #3b4974;
-margin: 30px auto;
-padding: 30px;
-}
+  #container {
+    width: 90%;
+    max-width: 800px;
+    background: #3b4974;
+    margin: 30px auto;
+    padding: 30px;
+  }
 
-section {
-border-top: 1px solid #f0ed0d;
-padding: 20px 0 0;
-}
+  section {
+    border-top: 1px solid #f0ed0d;
+    padding: 20px 0 0;
+  }
