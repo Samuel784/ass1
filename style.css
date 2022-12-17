@@ -13,8 +13,13 @@ p {
 }
 
 #Idealjob img {
-  width: 100px;
-  height: 100px;
+  width: 50px;
+  height: auto;
+}
+
+#MBTI Results img {
+    width: 50px;
+    height: auto;
 }
 
 #container {
