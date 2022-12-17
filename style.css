@@ -2,14 +2,14 @@ html, body {
   background: #A0D2DB;
   front-family: helvetica, arial, sans-serif;
   font-size: 14px;
-  color: #F1FFE7;
+  color: #5386E4;
 }
 
 p {
   font-size: 1em;
   line-height: 1.4em;
   margin-bottom: 20px;
-  color: #565555;
+  color: #F1FFE7;
 }
 
 #container {
